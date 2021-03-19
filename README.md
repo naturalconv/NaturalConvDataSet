@@ -18,7 +18,7 @@ You can download a large part of the grounding documents using the python code t
 python download_document.py --doc_url_json document_url_release.json --output_dir ./
 ```
 
-document_url_release.json can be found [here](https://ai.tencent.com/ailab/nlp/dialogue/#datasets)
+document_url_release.json can be found [here](https://ai.tencent.com/ailab/nlp/dialogue/#datasets).
 
 ## Citation
 
