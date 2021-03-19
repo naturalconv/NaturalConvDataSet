@@ -1,6 +1,7 @@
 
-# PLEASE READ THIS BEFORE USE THE SCRIPT
+# NaturalConv
 
+PLEASE READ THIS BEFORE USE THE SCRIPT.
 This repository provides examplar code for researchers to download the documents from the provided URLs of NaturalConv for non-commerical research purpose only.
 If you feel it costs too much time to download, please refer to Third Party Work below.
 
