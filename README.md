@@ -35,7 +35,7 @@ Please kindly cite the following paper if you find NaturalConv useful:
 
 ## Third Party Work
 
-Third party researchers have downloaded the documents and shared them on [Google Drive](https://drive.google.com/file/d/1uxMwiKMxgfKPuz0EnUxDHioUxeRJwPiZ), and [Baidu Pan](https://pan.baidu.com/s/1ztVj2l9yoQjXwCUmPYf2YQ) with passcode "wgta", for non-commercial usage only.
+Third party researchers have downloaded the documents and shared them on [Google Drive](https://drive.google.com/file/d/1uxMwiKMxgfKPuz0EnUxDHioUxeRJwPiZ), and [Baidu Pan](https://pan.baidu.com/s/1ztVj2l9yoQjXwCUmPYf2YQ) with passcode "wgta", for non-commercial usage only. 
 
 ## Disclaimers
 
